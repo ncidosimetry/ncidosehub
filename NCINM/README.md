@@ -1,8 +1,4 @@
-# NCINM 2.0
-
-![NCINM overview](https://github.com/user-attachments/assets/8f3baacb-6cca-4472-aaa4-6c74824dfdcc)
-
----
+<img width="397" height="119" alt="image" src="https://github.com/user-attachments/assets/7dc47e5b-ea40-4e7d-883a-2997978b921e" />
 
 ## Download
 
