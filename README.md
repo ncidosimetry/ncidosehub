@@ -1,6 +1,5 @@
 # NCI Dose Hub
 *A centralized access point for NCI-developed, reference-grade radiation dose infrastructure*
-![NCI Dose Tools Overview](https://github.com/user-attachments/assets/93af3f00-e364-41b4-9d9d-f190dd17c2b4)
 
 ---
 
@@ -48,7 +47,8 @@ Unlicensed access, redistribution, or derivative use is not permitted.
 
 ## NCI Dose Tools
 
-### **NCICT — Computed Tomography**
+<img width="410" height="132" alt="image" src="https://github.com/user-attachments/assets/7ca3c5db-9803-4e1c-9c7a-c21d0113b87b" />
+
 Reference organ dose estimation for pediatric, adult, and pregnant patient
 populations undergoing CT examinations.
 
@@ -56,7 +56,8 @@ populations undergoing CT examinations.
 
 ---
 
-### **NCINM — Nuclear Medicine**
+<img width="397" height="119" alt="image" src="https://github.com/user-attachments/assets/7dc47e5b-ea40-4e7d-883a-2997978b921e" />
+
 Reference organ dose estimation for pediatric and adult populations undergoing
 nuclear medicine procedures.
 
@@ -64,7 +65,8 @@ nuclear medicine procedures.
 
 ---
 
-### **NCIRF — Radiography & Fluoroscopy**
+<img width="417" height="126" alt="image" src="https://github.com/user-attachments/assets/b60697e2-9359-4073-a76f-fb9e6ba07e13" />
+
 Reference organ dose estimation for pediatric and adult populations undergoing
 radiographic and fluoroscopic procedures.
 
@@ -72,7 +74,8 @@ radiographic and fluoroscopic procedures.
 
 ---
 
-### **PHANTOM Library**
+<img width="385" height="129" alt="image" src="https://github.com/user-attachments/assets/6953bc8e-3627-48f9-b930-8c3b35106315" />
+
 Computational human phantom libraries representing reference and body-size–
 dependent children, adults, and pregnant women used across NCI dose tools.
 
