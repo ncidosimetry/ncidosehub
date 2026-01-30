@@ -52,7 +52,7 @@ Unlicensed access, redistribution, or derivative use is not permitted.
 Reference organ dose estimation for pediatric, adult, and pregnant patient
 populations undergoing CT examinations.
 
-[Documentation](NCICT) · [API](RESTAPI/NCICT_API)
+[Documentation](NCICT) · [Manual](https://github.com/ncidosimetry/ncidosehub/wiki/NCICT-User-Manual) · [API](RESTAPI/NCICT_API)
 
 ---
 
@@ -60,7 +60,7 @@ populations undergoing CT examinations.
 Reference organ dose estimation for pediatric and adult populations undergoing
 nuclear medicine procedures.
 
-[Documentation](NCINM) · [API](RESTAPI/NCINM_API)
+[Documentation](NCINM) · [Manual](https://github.com/ncidosimetry/ncidosehub/wiki/NCINM-User-Manual) · [API](RESTAPI/NCINM_API)
 
 ---
 
@@ -68,7 +68,7 @@ nuclear medicine procedures.
 Reference organ dose estimation for pediatric and adult populations undergoing
 radiographic and fluoroscopic procedures.
 
-[Documentation](NCIRF) · [API](RESTAPI/NCIRF_API)
+[Documentation](NCIRF) · [Manual](https://github.com/ncidosimetry/ncidosehub/wiki/NCIRF-User-Manual) · [API](RESTAPI/NCIRF_API)
 
 ---
 
@@ -76,7 +76,7 @@ radiographic and fluoroscopic procedures.
 Computational human phantom libraries representing reference and body-size–
 dependent children, adults, and pregnant women used across NCI dose tools.
 
-[Documentation](PHANTOM)
+[Documentation](PHANTOM) · [Manual](https://github.com/ncidosimetry/ncidosehub/wiki/PHANTOM-User-Manual)
 
 ---
 
