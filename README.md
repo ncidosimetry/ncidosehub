@@ -1,11 +1,11 @@
-# NCI Dose Hub
+# NCI Dose Tools
 *A centralized access point for NCI-developed, reference-grade radiation dose infrastructure*
 
 ---
 
 ## Overview
 
-The **NCI Dose Hub** provides centralized access to **reference-grade radiation dose
+The **NCI Dose Tools repository** provides centralized access to **reference-grade radiation dose
 estimation tools**, phantom libraries, and documentation developed at the
 National Cancer Institute (NCI).
 
@@ -17,12 +17,12 @@ benchmarking, and regulatory-facing analyses**, and are distributed
 
 ## Intended Audience
 
-**This hub is intended for:**
+**This repository is intended for:**
 - Commercial dose management and medical imaging software vendors  
 - Academic or hospital-based dose platforms  
 - Population-based, comparative, and regulatory-facing dose studies  
 
-**This hub is *not* intended for:**
+**This repository is *not* intended for:**
 - Direct clinical decision support  
 - Patient-specific or site-customized modeling  
 - Real-time clinical dose calculation  
@@ -52,7 +52,7 @@ Unlicensed access, redistribution, or derivative use is not permitted.
 Reference organ dose estimation for pediatric, adult, and pregnant patient
 populations undergoing CT examinations.
 
-[Documentation](NCICT) · [Manual](https://github.com/ncidosimetry/ncidosehub/wiki/NCICT-User-Manual) · [API](RESTAPI/NCICT_API)
+[Documentation](NCICT) · [Manual](https://github.com/ncidosimetry/ncidosetools/wiki/NCICT-User-Manual) · [API](RESTAPI/NCICT_API)
 
 ---
 
@@ -61,7 +61,7 @@ populations undergoing CT examinations.
 Reference organ dose estimation for pediatric and adult populations undergoing
 nuclear medicine procedures.
 
-[Documentation](NCINM) · [Manual](https://github.com/ncidosimetry/ncidosehub/wiki/NCINM-User-Manual) · [API](RESTAPI/NCINM_API)
+[Documentation](NCINM) · [Manual](https://github.com/ncidosimetry/ncidosetools/wiki/NCINM-User-Manual) · [API](RESTAPI/NCINM_API)
 
 ---
 
@@ -70,7 +70,7 @@ nuclear medicine procedures.
 Reference organ dose estimation for pediatric and adult populations undergoing
 radiographic and fluoroscopic procedures.
 
-[Documentation](NCIRF) · [Manual](https://github.com/ncidosimetry/ncidosehub/wiki/NCIRF-User-Manual) · [API](RESTAPI/NCIRF_API)
+[Documentation](NCIRF) · [Manual](https://github.com/ncidosimetry/ncidosetools/wiki/NCIRF-User-Manual) · [API](RESTAPI/NCIRF_API)
 
 ---
 
@@ -79,7 +79,7 @@ radiographic and fluoroscopic procedures.
 Computational human phantom libraries representing reference and body-size–
 dependent children, adults, and pregnant women used across NCI dose tools.
 
-[Documentation](PHANTOM) · [Manual](https://github.com/ncidosimetry/ncidosehub/wiki/PHANTOM-User-Manual)
+[Documentation](PHANTOM) · [Manual](https://github.com/ncidosimetry/ncidosetools/wiki/PHANTOM-User-Manual)
 
 ---
 
