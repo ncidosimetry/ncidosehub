@@ -1,17 +1,11 @@
 # NCI Dose Tools Repository
-*A centralized access point for NCI-developed, reference-grade radiation dose infrastructure*
+*Technical documentation, user support, and API resources for NCI-developed, reference-grade radiation dose tools*
 
 ---
 
 ## Overview
 
-The **NCI Dose Tools repository** provides centralized access to **reference-grade radiation dose
-estimation tools**, phantom libraries, and documentation developed at the
-National Cancer Institute (NCI).
-
-These resources are designed for **population-based dose evaluation,
-benchmarking, and regulatory-facing analyses**, and are distributed
-**only under approved research or commercial agreements**.
+The NCI Dose Tools repository provides documentation, user support, and API resources for reference-grade radiation dose estimation tools and phantom libraries developed at the National Cancer Institute (NCI).
 
 ---
 
@@ -25,7 +19,6 @@ benchmarking, and regulatory-facing analyses**, and are distributed
 **This repository is *not* intended for:**
 - Direct clinical decision support  
 - Patient-specific or site-customized modeling  
-- Real-time clinical dose calculation  
 
 ---
 
