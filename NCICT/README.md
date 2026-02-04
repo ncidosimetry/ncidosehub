@@ -25,6 +25,16 @@ The following resources are available from the download link:
 ---
 
 ## Version History
+### 2025-12-2
+- nCTDIw added:
+-   United Imaging: uCT 820
+
+### 2025-10-21
+- nCTDIw added:
+-  Siemens: X.cite, Definition Edge
+-  Siemens: Definition AS+, Definition Flash, Force, Edge Plus
+-  GE: Revolution CT
+-  United Imaging: uCT 760, uCT 960+
 
 ### 2024-12-16
 - Bug fix: Batch run menu not functioning correctly
