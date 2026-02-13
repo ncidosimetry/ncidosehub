@@ -28,20 +28,18 @@ Unlicensed access or redistribution is not permitted.
 
 | Institution | Size      | Arm Posture | Format   | Resolution |
 |------------|-----------|-------------|----------|------------|
-| icrp | reference | armless | dicomrt | high |
-| nci  | bodysize  | armless | binary  | low |
-| nci  | pregnant  | armless | dicomrt | high |
-| nci  | reference | arm     | binary  | high |
-| nci  | reference | armless | binary  | high |
+| nci  | reference | arm     | voxel  | high |
+| nci  | reference | armless | voxel  | high |
+| nci  | size-dependent | arm | voxel  | low* |
+| nci  | size-dependent | armless | voxel | low* |
 | nci  | reference | armless | dicomrt | high |
+| nci  | pregnant  | armless | dicomrt | high |
+| icrp | reference | armless | dicomrt | high |
 
 ### Master Tables
 
-- **#mastertable_nci_reference.xlsx**  
-  Master data table for the NCI reference-size phantom library
-
-- **#mastertable_nci_bodysize.xlsx**  
-  Master data table for the NCI body size–dependent phantom library
+- **#_mastertable_ref&size.xlsx**
+  Master data table for the NCI reference & body size–dependent phantom library
 
 ---
 
