@@ -26,18 +26,25 @@ The following resources are available from the download link:
 
 ## Version History
 ### 2026-2-11
-- batch mode updated: input exact height and weight of ICRP reference phantoms to run ICRP phantoms
+- Users can now select ICRP phantoms in batch mode by entering the exact height and weight values shown in the ICRP tab.
+- Batch mode menu replaced with a dedicated button for improved accessibility.
+- GUI design including phantom diagram refined for a cleaner and more intuitive interface.
+- Tab navigation optimized so focus moves in an orderly sequence.
+- Dose results are right-justified for improved readability and alignment.
+- Scan range now starts from 0 cm.
+- Scan start and end inputs are automatically corrected if user-defined values conflict.
+- Mouse drag behavior for scan start and end has been fixed to prevent flipping.
 
 ### 2025-12-2
-- nCTDIw added:
+- nCTDIw added from CTDI survey data for the following scanners:
 -   United Imaging: uCT 820
 
 ### 2025-10-21
-- nCTDIw added:
--  Siemens: X.cite, Definition Edge
--  Siemens: Definition AS+, Definition Flash, Force, Edge Plus
--  GE: Revolution CT
--  United Imaging: uCT 760, uCT 960+
+- nCTDIw added from CTDI survey data for the following scanners:
+- Siemens: X.cite, Definition Edge
+- Siemens: Definition AS+, Definition Flash, Force, Edge Plus
+- GE: Revolution CT
+- United Imaging: uCT 760, uCT 960+
 
 ### 2024-12-16
 - Bug fix: Batch run menu not functioning correctly
