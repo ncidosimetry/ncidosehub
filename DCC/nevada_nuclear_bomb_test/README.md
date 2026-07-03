@@ -7,6 +7,16 @@ This directory contains a cleaned distribution copy of dosimetry data for atmosp
 
 The distribution keeps one analysis-ready copy of each duplicated dataset. Thyroid dose files are provided in CSV format, and ground-deposition summary data are provided as Excel workbooks. Duplicate original `.RES` text files were omitted from this cleaned copy.
 
+## Download
+
+### [DOWNLOAD LINK](https://drive.google.com/drive/folders/1B2cI9eewJzRn5DJMaOGJ1RloNv0blxSF?usp=share_link)
+
+Access to the download link is restricted to users with:
+- an approved **Software Transfer Agreement (STA)** for non-commercial research use, or
+- a completed **commercial licensing agreement**.
+
+Unlicensed access or redistribution is not permitted.
+
 ## Directory Structure
 
 ```text
